@@ -1,4 +1,4 @@
-# Hangman-
+# Hangman 
 import random
 
 # List of words to choose from
